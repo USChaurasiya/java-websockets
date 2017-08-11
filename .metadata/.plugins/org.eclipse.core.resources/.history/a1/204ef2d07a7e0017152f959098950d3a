@@ -1,0 +1,28 @@
+package com.uma.websocket.web;
+
+import javax.websocket.Decoder;
+import javax.websocket.EndpointConfig;
+
+import com.google.gson.Gson;
+import com.uma.websocket.model.Message;
+
+public class MessageEncoder implements Decoder.Text<Message> {
+	private static Gson gson = new Gson();
+
+   
+    public String encode(Message message) throws EncodeException {
+        String json = gson.toJson(message);
+        return json;
+    }
+
+    @Override
+    public void init(EndpointConfig endpointConfig) {
+        // Custom initialization logic
+    }
+
+    @Override
+    public void destroy() {
+        // Close resources
+    }
+
+}

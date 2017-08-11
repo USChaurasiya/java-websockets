@@ -1,0 +1,5 @@
+package com.uma.websocket.model;
+
+public class message {
+
+}
