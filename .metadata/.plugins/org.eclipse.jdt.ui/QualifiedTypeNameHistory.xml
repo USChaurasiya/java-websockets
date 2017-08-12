@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="javax.websocket.Session"/>
+<fullyQualifiedTypeName name="java.util.Set"/>
+<fullyQualifiedTypeName name="java.util.concurrent.CopyOnWriteArraySet"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="javax.websocket.OnOpen"/>
+<fullyQualifiedTypeName name="javax.websocket.server.PathParam"/>
+<fullyQualifiedTypeName name="javax.websocket.OnMessage"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="javax.websocket.OnClose"/>
+<fullyQualifiedTypeName name="javax.websocket.OnError"/>
+<fullyQualifiedTypeName name="javax.websocket.server.ServerEndpoint"/>
+<fullyQualifiedTypeName name="javax.websocket.DecodeException"/>
+<fullyQualifiedTypeName name="javax.websocket.Decoder"/>
+<fullyQualifiedTypeName name="javax.websocket.Decoder.Text"/>
+<fullyQualifiedTypeName name="com.uma.websocket.model.Message"/>
+<fullyQualifiedTypeName name="com.google.gson.Gson"/>
+<fullyQualifiedTypeName name="javax.websocket.EndpointConfig"/>
+<fullyQualifiedTypeName name="javax.websocket.EncodeException"/>
+<fullyQualifiedTypeName name="javax.websocket.Encoder"/>
+</qualifiedTypeNameHistroy>

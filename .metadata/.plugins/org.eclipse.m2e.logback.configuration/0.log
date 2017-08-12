@@ -334,3 +334,258 @@
 2017-08-11 15:45:58,934 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2017-08-11 15:45:58,935 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2017-08-11 15:45:58,935 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Desktop/Java-WebSocket/java-websocket/src/test/resources
+2017-08-11 16:10:45,381 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/2.7/maven-resources-plugin-2.7.jar
+2017-08-11 16:10:46,031 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/2.7/maven-resources-plugin-2.7.jar
+2017-08-11 16:10:47,151 [Worker-32] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org:stackexchange:0.6.0-SNAPSHOT @ /home/bridgeit/Desktop/java-stackexchange-master/pom.xml.
+2017-08-11 16:10:49,281 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.3.5/httpclient-4.3.5.pom
+2017-08-11 16:10:49,607 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.3.5/httpclient-4.3.5.pom
+2017-08-11 16:10:49,888 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-client/4.3.5/httpcomponents-client-4.3.5.pom
+2017-08-11 16:10:50,409 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-client/4.3.5/httpcomponents-client-4.3.5.pom
+2017-08-11 16:10:50,708 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.pom
+2017-08-11 16:10:51,012 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.pom
+2017-08-11 16:10:51,284 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-core/4.3.2/httpcomponents-core-4.3.2.pom
+2017-08-11 16:10:51,631 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcomponents-core/4.3.2/httpcomponents-core-4.3.2.pom
+2017-08-11 16:10:52,190 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/directory/studio/org.apache.commons.io/2.4/org.apache.commons.io-2.4.pom
+2017-08-11 16:10:52,469 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/directory/studio/org.apache.commons.io/2.4/org.apache.commons.io-2.4.pom
+2017-08-11 16:10:52,796 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/directory/studio/parent-libraries/2.0.0.v20130125/parent-libraries-2.0.0.v20130125.pom
+2017-08-11 16:10:53,062 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/directory/studio/parent-libraries/2.0.0.v20130125/parent-libraries-2.0.0.v20130125.pom
+2017-08-11 16:10:53,360 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/directory/studio/parent/2.0.0.v20130125/parent-2.0.0.v20130125.pom
+2017-08-11 16:10:54,252 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/directory/studio/parent/2.0.0.v20130125/parent-2.0.0.v20130125.pom
+2017-08-11 16:10:54,664 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/directory/project/project/27/project-27.pom
+2017-08-11 16:10:55,019 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/directory/project/project/27/project-27.pom
+2017-08-11 16:10:55,570 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.3.3/jackson-databind-2.3.3.pom
+2017-08-11 16:10:55,838 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.3.3/jackson-databind-2.3.3.pom
+2017-08-11 16:10:56,274 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.3.3/jackson-core-2.3.3.pom
+2017-08-11 16:10:56,558 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.3.3/jackson-core-2.3.3.pom
+2017-08-11 16:10:56,957 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/dropwizard/metrics/metrics-core/3.1.0/metrics-core-3.1.0.pom
+2017-08-11 16:10:57,223 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/dropwizard/metrics/metrics-core/3.1.0/metrics-core-3.1.0.pom
+2017-08-11 16:10:57,496 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/dropwizard/metrics/metrics-parent/3.1.0/metrics-parent-3.1.0.pom
+2017-08-11 16:10:57,809 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/dropwizard/metrics/metrics-parent/3.1.0/metrics-parent-3.1.0.pom
+2017-08-11 16:10:58,155 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7.pom
+2017-08-11 16:10:58,419 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7.pom
+2017-08-11 16:10:58,692 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.7.7/slf4j-parent-1.7.7.pom
+2017-08-11 16:10:59,002 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.7.7/slf4j-parent-1.7.7.pom
+2017-08-11 16:10:59,301 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/ch/qos/logback/logback-classic/1.1.2/logback-classic-1.1.2.pom
+2017-08-11 16:10:59,619 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/ch/qos/logback/logback-classic/1.1.2/logback-classic-1.1.2.pom
+2017-08-11 16:10:59,919 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/ch/qos/logback/logback-parent/1.1.2/logback-parent-1.1.2.pom
+2017-08-11 16:11:00,345 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/ch/qos/logback/logback-parent/1.1.2/logback-parent-1.1.2.pom
+2017-08-11 16:11:00,620 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/ch/qos/logback/logback-core/1.1.2/logback-core-1.1.2.pom
+2017-08-11 16:11:01,146 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/ch/qos/logback/logback-core/1.1.2/logback-core-1.1.2.pom
+2017-08-11 16:11:01,610 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/jcl-over-slf4j/1.7.7/jcl-over-slf4j-1.7.7.pom
+2017-08-11 16:11:01,874 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/jcl-over-slf4j/1.7.7/jcl-over-slf4j-1.7.7.pom
+2017-08-11 16:11:02,193 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/log4j-over-slf4j/1.7.7/log4j-over-slf4j-1.7.7.pom
+2017-08-11 16:11:02,462 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/log4j-over-slf4j/1.7.7/log4j-over-slf4j-1.7.7.pom
+2017-08-11 16:11:02,768 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit-dep/4.11/junit-dep-4.11.pom
+2017-08-11 16:11:03,032 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit-dep/4.11/junit-dep-4.11.pom
+2017-08-11 16:11:03,775 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mockito/mockito-core/1.10.8/mockito-core-1.10.8.pom
+2017-08-11 16:11:04,040 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mockito/mockito-core/1.10.8/mockito-core-1.10.8.pom
+2017-08-11 16:11:04,155 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact junit:junit-dep:jar:4.11 has been relocated to junit:junit:jar:4.11
+2017-08-11 16:11:04,463 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.3.5/httpclient-4.3.5.jar
+2017-08-11 16:11:08,825 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-08-11 16:11:11,071 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.3.5/httpclient-4.3.5.jar
+2017-08-11 16:11:11,353 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar
+2017-08-11 16:11:15,499 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar
+2017-08-11 16:11:15,805 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/directory/studio/org.apache.commons.io/2.4/org.apache.commons.io-2.4.jar
+2017-08-11 16:11:18,305 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/directory/studio/org.apache.commons.io/2.4/org.apache.commons.io-2.4.jar
+2017-08-11 16:11:18,567 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.3.3/jackson-databind-2.3.3.jar
+2017-08-11 16:11:26,096 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.3.3/jackson-databind-2.3.3.jar
+2017-08-11 16:11:26,435 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.3.0/jackson-annotations-2.3.0.jar
+2017-08-11 16:11:26,798 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.3.0/jackson-annotations-2.3.0.jar
+2017-08-11 16:11:27,141 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.3.3/jackson-core-2.3.3.jar
+2017-08-11 16:11:29,373 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.3.3/jackson-core-2.3.3.jar
+2017-08-11 16:11:29,691 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/dropwizard/metrics/metrics-core/3.1.0/metrics-core-3.1.0.jar
+2017-08-11 16:11:31,557 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/dropwizard/metrics/metrics-core/3.1.0/metrics-core-3.1.0.jar
+2017-08-11 16:11:31,892 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7.jar
+2017-08-11 16:11:32,447 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7.jar
+2017-08-11 16:11:32,755 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/ch/qos/logback/logback-classic/1.1.2/logback-classic-1.1.2.jar
+2017-08-11 16:11:36,918 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/ch/qos/logback/logback-classic/1.1.2/logback-classic-1.1.2.jar
+2017-08-11 16:11:37,190 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/ch/qos/logback/logback-core/1.1.2/logback-core-1.1.2.jar
+2017-08-11 16:11:43,183 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/ch/qos/logback/logback-core/1.1.2/logback-core-1.1.2.jar
+2017-08-11 16:11:43,458 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/jcl-over-slf4j/1.7.7/jcl-over-slf4j-1.7.7.jar
+2017-08-11 16:11:44,450 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/jcl-over-slf4j/1.7.7/jcl-over-slf4j-1.7.7.jar
+2017-08-11 16:11:44,755 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/log4j-over-slf4j/1.7.7/log4j-over-slf4j-1.7.7.jar
+2017-08-11 16:11:45,456 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/log4j-over-slf4j/1.7.7/log4j-over-slf4j-1.7.7.jar
+2017-08-11 16:11:45,730 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mockito/mockito-core/1.10.8/mockito-core-1.10.8.jar
+2017-08-11 16:12:00,394 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact junit:junit-dep:jar:4.11 has been relocated to junit:junit:jar:4.11
+2017-08-11 16:12:02,310 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mockito/mockito-core/1.10.8/mockito-core-1.10.8.jar
+2017-08-11 16:12:02,790 [Worker-29] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mockito/mockito-core/1.10.8/mockito-core-1.10.8.jar
+2017-08-11 16:12:03,164 [Worker-32] WARN  o.e.a.i.i.DefaultRepositoryEventDispatcher - Failed to dispatch repository event to org.eclipse.m2e.core.internal.embedder.EclipseRepositoryListener: null
+2017-08-11 16:12:04,145 [Worker-29] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mockito/mockito-core/1.10.8/mockito-core-1.10.8.jar
+2017-08-11 16:12:04,453 [Worker-32] WARN  o.e.a.i.i.DefaultRepositoryEventDispatcher - Failed to dispatch repository event to org.eclipse.m2e.core.internal.embedder.EclipseRepositoryListener: null
+2017-08-11 16:12:04,698 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact junit:junit-dep:jar:4.11 has been relocated to junit:junit:jar:4.11
+2017-08-11 16:12:05,215 [Worker-32] WARN  o.e.a.i.i.DefaultRepositoryEventDispatcher - Failed to dispatch repository event to org.eclipse.m2e.core.internal.embedder.EclipseRepositoryListener: null
+2017-08-11 16:12:06,988 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/2.7/maven-resources-plugin-2.7.pom
+2017-08-11 16:12:07,231 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/2.7/maven-resources-plugin-2.7.pom
+2017-08-11 16:12:08,918 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-11 16:12:08,918 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Desktop/java-stackexchange-master/src/main/resources
+2017-08-11 16:12:08,919 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-11 16:12:08,920 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-11 16:12:09,425 [Worker-35] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org:stackexchange:0.6.0-SNAPSHOT @ /home/bridgeit/Desktop/java-stackexchange-master/pom.xml.
+2017-08-11 16:12:09,472 [Worker-29] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-08-11 16:12:09,575 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact junit:junit-dep:jar:4.11 has been relocated to junit:junit:jar:4.11
+2017-08-11 16:12:09,739 [Worker-29] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org:stackexchange:0.6.0-SNAPSHOT @ /home/bridgeit/Desktop/java-stackexchange-master/pom.xml.
+2017-08-11 16:12:09,778 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact junit:junit-dep:jar:4.11 has been relocated to junit:junit:jar:4.11
+2017-08-11 16:12:09,871 [Worker-29] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /java-stackexchange/src/main/java
+2017-08-11 16:12:09,872 [Worker-29] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /java-stackexchange/src/test/java
+2017-08-11 16:12:09,872 [Worker-29] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /java-stackexchange/src/test/resources
+2017-08-11 16:12:09,994 [Worker-29] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2017-08-11 16:12:10,205 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact junit:junit-dep:jar:4.11 has been relocated to junit:junit:jar:4.11
+2017-08-11 16:12:10,219 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-11 16:12:10,220 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Desktop/java-stackexchange-master/src/main/resources
+2017-08-11 16:12:10,221 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-11 16:12:10,222 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-11 16:12:10,819 [Worker-29] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org:stackexchange:0.6.0-SNAPSHOT @ /home/bridgeit/Desktop/java-stackexchange-master/pom.xml.
+2017-08-11 16:12:10,861 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact junit:junit-dep:jar:4.11 has been relocated to junit:junit:jar:4.11
+2017-08-11 16:12:11,444 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact junit:junit-dep:jar:4.11 has been relocated to junit:junit:jar:4.11
+2017-08-11 16:12:11,604 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-11 16:12:11,604 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Desktop/java-stackexchange-master/src/main/resources
+2017-08-11 16:12:11,606 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-11 16:12:11,609 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-11 16:12:46,110 [Worker-29] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-08-11 16:12:46,264 [Worker-29] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org:stackexchange:0.6.0-SNAPSHOT @ /home/bridgeit/Desktop/java-stackexchange-master/pom.xml.
+2017-08-11 16:12:46,307 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact junit:junit-dep:jar:4.11 has been relocated to junit:junit:jar:4.11
+2017-08-11 16:12:46,392 [Worker-29] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /java-stackexchange/src/main/java
+2017-08-11 16:12:46,392 [Worker-29] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /java-stackexchange/src/test/java
+2017-08-11 16:12:46,392 [Worker-29] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /java-stackexchange/src/test/resources
+2017-08-11 16:12:46,466 [Worker-29] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2017-08-11 16:12:46,629 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact junit:junit-dep:jar:4.11 has been relocated to junit:junit:jar:4.11
+2017-08-11 16:12:46,655 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-11 16:12:46,656 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Desktop/java-stackexchange-master/src/main/resources
+2017-08-11 16:12:46,657 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-11 16:12:46,661 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-11 16:12:49,846 [Worker-32] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/bridgeit/Desktop/java-stackexchange-master
+2017-08-11 16:12:49,847 [Worker-32] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2017-08-11 16:12:53,206 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-11 16:12:53,206 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Desktop/java-stackexchange-master/src/main/resources
+2017-08-11 16:12:53,207 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-11 16:12:53,208 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-11 16:12:58,698 [Worker-31] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-08-11 16:12:58,907 [Worker-31] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org:stackexchange:0.6.0-SNAPSHOT @ /home/bridgeit/Desktop/java-stackexchange-master/pom.xml.
+2017-08-11 16:12:58,966 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact junit:junit-dep:jar:4.11 has been relocated to junit:junit:jar:4.11
+2017-08-11 16:12:59,163 [Worker-31] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /java-stackexchange/src/main/java
+2017-08-11 16:12:59,163 [Worker-31] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /java-stackexchange/src/test/java
+2017-08-11 16:12:59,163 [Worker-31] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /java-stackexchange/src/test/resources
+2017-08-11 16:12:59,244 [Worker-31] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2017-08-11 16:12:59,419 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact junit:junit-dep:jar:4.11 has been relocated to junit:junit:jar:4.11
+2017-08-11 16:12:59,434 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-11 16:12:59,434 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Desktop/java-stackexchange-master/src/main/resources
+2017-08-11 16:12:59,435 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-11 16:12:59,436 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-11 16:13:18,191 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-11 16:13:18,191 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Desktop/java-stackexchange-master/src/main/resources
+2017-08-11 16:13:18,192 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-11 16:13:18,193 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-11 16:19:15,709 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-11 16:19:15,710 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Desktop/java-stackexchange-master/src/main/resources
+2017-08-11 16:19:15,710 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-11 16:19:15,713 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-11 16:19:29,655 [Worker-40] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.uma:java-websocket:0.0.1-SNAPSHOT @ /home/bridgeit/Desktop/Java-WebSocket/java-websocket/pom.xml.
+2017-08-11 16:19:29,667 [Worker-34] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.uma:java-websocket:0.0.1-SNAPSHOT @ /home/bridgeit/Desktop/Java-WebSocket/java-websocket/pom.xml.
+2017-08-11 16:19:30,599 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-11 16:19:30,599 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-11 16:19:30,600 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-11 16:19:30,600 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Desktop/Java-WebSocket/java-websocket/src/test/resources
+2017-08-11 16:19:31,723 [Worker-37] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.uma:java-websocket:0.0.1-SNAPSHOT @ /home/bridgeit/Desktop/Java-WebSocket/java-websocket/pom.xml.
+2017-08-11 16:19:32,790 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-11 16:19:32,805 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-11 16:19:32,806 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-11 16:19:32,806 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Desktop/Java-WebSocket/java-websocket/src/test/resources
+2017-08-11 18:20:56,327 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-11 18:20:56,332 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-11 18:20:56,334 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-11 18:20:56,334 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Desktop/Java-WebSocket/java-websocket/src/test/resources
+2017-08-11 18:21:01,064 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact junit:junit-dep:jar:4.11 has been relocated to junit:junit:jar:4.11
+2017-08-11 18:22:41,751 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-11 18:22:41,759 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Desktop/java-stackexchange-master/src/main/resources
+2017-08-11 18:22:41,762 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-11 18:22:41,763 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-11 18:25:24,567 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-11 18:25:24,572 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-11 18:25:24,574 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-11 18:25:24,574 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-11 18:26:22,761 [Worker-24] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for java-websocket
+2017-08-11 18:26:22,940 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-11 18:26:22,940 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-11 18:26:22,941 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-11 18:26:22,942 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-11 18:26:23,256 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-11 18:26:23,256 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-11 18:26:23,257 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-11 18:26:23,257 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Desktop/Java-WebSocket/java-websocket/src/test/resources
+2017-08-11 18:26:23,257 [Worker-25] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of java-websocket
+2017-08-11 18:26:23,258 [Worker-25] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for java-websocket
+2017-08-11 18:26:23,282 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-11 18:26:26,417 [Worker-4] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for java-websocket
+2017-08-11 18:26:27,448 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-11 18:26:27,449 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-11 18:26:27,450 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-11 18:26:27,450 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-11 18:26:27,640 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-11 18:26:27,641 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-11 18:26:27,642 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-11 18:26:27,642 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Desktop/Java-WebSocket/java-websocket/src/test/resources
+2017-08-11 18:26:27,642 [Worker-26] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of java-websocket
+2017-08-11 18:26:27,642 [Worker-26] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for java-websocket
+2017-08-11 18:26:27,656 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-11 18:29:01,982 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org:stackexchange:0.6.0-SNAPSHOT @ /home/bridgeit/Desktop/java-stackexchange-master/pom.xml.
+2017-08-11 18:29:02,345 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-11 18:29:02,349 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-11 18:29:02,352 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-11 18:29:02,353 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-11 18:29:09,195 [Worker-27] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-08-11 18:29:09,500 [Worker-27] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org:stackexchange:0.6.0-SNAPSHOT @ /home/bridgeit/Desktop/java-stackexchange-master/pom.xml.
+2017-08-11 18:29:09,765 [Worker-27] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /java-stackexchange/src/main/java
+2017-08-11 18:29:09,766 [Worker-27] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /java-stackexchange/src/main/resources
+2017-08-11 18:29:09,767 [Worker-27] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /java-stackexchange/src/test/java
+2017-08-11 18:29:09,767 [Worker-27] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /java-stackexchange/src/test/resources
+2017-08-11 18:29:10,379 [Worker-27] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2017-08-11 18:29:10,666 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-11 18:29:10,667 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-11 18:29:10,669 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-11 18:29:10,670 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-11 18:29:28,378 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-11 18:29:28,378 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-11 18:29:28,379 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-11 18:29:28,380 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-11 18:29:39,246 [Worker-27] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/bridgeit/Desktop/java-stackexchange-master
+2017-08-11 18:29:39,247 [Worker-27] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2017-08-11 18:29:43,111 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-11 18:29:43,114 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-11 18:29:43,115 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-11 18:29:43,115 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-11 18:31:24,119 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-11 18:31:24,120 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-11 18:31:24,121 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-11 18:31:24,121 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-11 18:32:02,287 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-11 18:32:02,287 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-11 18:32:02,288 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-11 18:32:02,289 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-11 18:32:06,686 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-11 18:32:06,686 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-11 18:32:06,687 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-11 18:32:06,687 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-11 18:40:47,221 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-11 18:40:47,221 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-11 18:40:47,222 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-11 18:40:47,222 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-11 18:41:09,646 [Worker-32] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for java-websocket
+2017-08-11 18:41:09,822 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-11 18:41:09,823 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-11 18:41:09,825 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-11 18:41:09,825 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-11 18:41:09,872 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-11 18:41:09,872 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-11 18:41:09,873 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-11 18:41:09,873 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bridgeit/Desktop/Java-WebSocket/java-websocket/src/test/resources
+2017-08-11 18:41:09,874 [Worker-29] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of java-websocket
+2017-08-11 18:41:09,874 [Worker-29] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for java-websocket
+2017-08-11 18:41:09,876 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-11 18:41:47,070 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-11 18:41:47,071 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-11 18:41:47,071 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-11 18:41:47,072 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-11 18:41:51,871 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-11 18:41:51,872 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-11 18:41:51,873 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-11 18:41:51,873 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource

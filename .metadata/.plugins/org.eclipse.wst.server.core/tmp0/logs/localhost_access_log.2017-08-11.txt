@@ -24,3 +24,6 @@
 127.0.0.1 - - [11/Aug/2017:15:45:46 +0530] "GET /java-websocket/ HTTP/1.1" 304 -
 127.0.0.1 - - [11/Aug/2017:15:45:47 +0530] "GET /java-websocket/ HTTP/1.1" 304 -
 127.0.0.1 - - [11/Aug/2017:15:46:44 +0530] "GET /java-websocket/ HTTP/1.1" 200 820
+127.0.0.1 - - [11/Aug/2017:17:07:32 +0530] "GET /java-websocket/chat/%20vfb HTTP/1.1" 101 -
+127.0.0.1 - - [11/Aug/2017:17:08:05 +0530] "GET /java-websocket/ HTTP/1.1" 200 820
+127.0.0.1 - - [11/Aug/2017:17:08:06 +0530] "GET /java-websocket/websocket.js HTTP/1.1" 200 666
