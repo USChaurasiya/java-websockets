@@ -19,4 +19,5 @@
 <fullyQualifiedTypeName name="javax.websocket.EndpointConfig"/>
 <fullyQualifiedTypeName name="javax.websocket.EncodeException"/>
 <fullyQualifiedTypeName name="javax.websocket.Encoder"/>
+<fullyQualifiedTypeName name="lombok.Getter"/>
 </qualifiedTypeNameHistroy>
